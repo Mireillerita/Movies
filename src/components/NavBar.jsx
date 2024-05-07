@@ -15,16 +15,16 @@ const NavBar = () => {
           <NavLink to="/Explore">Explore</NavLink>
         </div>
         <div>
-          <NavLink to="/.Genre">Genre</NavLink>
+          <NavLink to="/Genre">Genre</NavLink>
         </div>
         <div>
-          <NavLink to="/.News">News</NavLink>
+          <NavLink to="/News">News</NavLink>
         </div>
         <div>
-          <NavLink to="/.Movies">Movies</NavLink>
+          <NavLink to="/Movies">Movies</NavLink>
         </div>
         <div>
-          <NavLink to="/.TV Shows">TV Shows</NavLink>
+          <NavLink to="/TV Shows">TV Shows</NavLink>
         </div>
       </div>
     </section>
